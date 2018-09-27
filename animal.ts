@@ -1,11 +1,8 @@
-class Animal {
-    nome: string;
-    especie: string;
-    raca: boolean;
-    tamanho: number;
+class calc {   
+calc: number;
 
-    constructor(nome: string, especie: string, raca: boolean, tamanho:number) {
-        this.nome = nome;
+    constructor(arit:number) {
+        this.nom = nome;
         this.especie = especie;
         this.raca = raca;
         this.tamanho = tamanho;
